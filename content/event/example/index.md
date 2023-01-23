@@ -1,8 +1,8 @@
 ---
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
 address:
-  city: Stanford
-  country: United States
+  city: Beijing
+  country: China
   postcode: "94305"
   region: CA
   street: 450 Serra Mall
