@@ -6,7 +6,7 @@ title: Wenhan Cao (曹文涵)
 superuser: true
 
 # Role/position
-role: Phd student of Tsinghua University
+role: Phd student
 
 # Organizations/Affiliations
 organizations:
