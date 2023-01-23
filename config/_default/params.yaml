@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: custom
+  theme_night:
+  font: rose
   font_size: L
 
 # SEO
@@ -87,7 +87,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
@@ -107,8 +107,8 @@ extensions:
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa
