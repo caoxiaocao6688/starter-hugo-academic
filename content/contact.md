@@ -15,7 +15,7 @@ sections:
       phone: +86 188 1175 6887
       # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
+        building: 450 Serra Mall
         city: Manchester
         region: Manchester
         postcode: '100084'
