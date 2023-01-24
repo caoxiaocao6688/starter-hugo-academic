@@ -38,4 +38,4 @@ url_pdf: https://arxiv.org/abs/2210.02166
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /callout %}}
 
-/Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+/%Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
