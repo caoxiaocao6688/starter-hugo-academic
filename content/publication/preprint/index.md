@@ -2,7 +2,7 @@
 abstract: The accuracy of the moving horizon estimation (MHE) significantly degrades under measurement outliers. Existing methods that address this issue only apply to linear systems and assume intermittent outliers. To bridge this gap, we propose a generalized MHE approach that extends the standard MHE by utilizing the loss-theoretic perspective of Generalized Bayesian Inference. Then we design a robust loss function by leveraging the \{beta}-divergence and propose the \{beta} moving horizon estimator robust to outliers. Analytical influence functions are derived to analyze the robustness of the MHE methods. We further prove that for the case of linear Gaussian systems, the gross error sensitivity of the proposed estimator remains bounded, while for the standard MHE, it is unbounded. The effectiveness of the proposed approach is demonstrated in simulations on both linear and nonlinear systems.
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-10-06T16:26:50.000Z"
 doi: ""
 featured: false
 # image:
@@ -18,7 +18,7 @@ publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-06T16:26:50.000Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
@@ -38,4 +38,4 @@ url_pdf: https://arxiv.org/abs/2210.02166
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /callout %}}
 
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+/Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
