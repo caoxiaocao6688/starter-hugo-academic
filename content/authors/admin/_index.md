@@ -6,7 +6,7 @@ title: Wenhan Cao (曹文涵)
 superuser: true
 
 # Role/position
-role: Phd student
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,17 @@ bio: My research interests include optimal filtering, optimal control and machin
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  mailto:cwh19@mails.tsinghua.edu.cn  
+# link: '/contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?hl=zh-CN&user=43xAy7MAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
