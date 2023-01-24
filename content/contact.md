@@ -14,8 +14,13 @@ sections:
       email: cwh19@mails.tsinghua.edu.cn    
       phone: +86 188 1175 6887
       # appointment_url: 'https://calendly.com'
-      address: 
-         - Street: A639, LSK Building, Tsinghua University, Haidian District, Beijing, China
+      address:
+        street: 450 Serra Mall
+        city: Manchester
+        region: Manchester
+        postcode: '100084'
+        country: China
+        country_code: CN
       # directions: A639, LSK building
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
