@@ -25,15 +25,15 @@ social:
   icon_pack: fas
   mailto:cwh19@mails.tsinghua.edu.cn  
 # link: '/contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
+- icon: twitterb
+  icon_pack: fa
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=43xAy7MAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/caoxiaocao6688
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
