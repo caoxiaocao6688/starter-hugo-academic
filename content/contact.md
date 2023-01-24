@@ -19,8 +19,6 @@ sections:
         city: Manchester
         region: Manchester
         postcode: '100084'
-        country: China
-        country_code: CN
       # directions: A639, LSK building
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
