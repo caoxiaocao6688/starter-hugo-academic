@@ -9,7 +9,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        How happy we are, to meet friends from afar!(有朋自远方来，不亦乐乎！)
       # Contact (add or remove contact options as necessary)
       email: cwh19@mails.tsinghua.edu.cn    
       phone: +86 188 1175 6887
