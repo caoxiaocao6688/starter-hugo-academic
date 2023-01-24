@@ -27,9 +27,9 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Welcome to my academic homepage. I'm a Phd student at Tsinghua University and my research interests are optimal filtering, optimal control and reinforcement learning.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        **Hobbies:** Chromatic Harmonica, Basketball, Swimming
     design:
       columns: '1'
   - block: collection
