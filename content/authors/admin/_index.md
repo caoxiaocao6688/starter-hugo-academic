@@ -23,8 +23,8 @@ bio: My research interests include optimal filtering, optimal control and machin
 social:
 - icon: envelope
   icon_pack: fas
-  mailto:cwh19@mails.tsinghua.edu.cn  
-# link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  # mailto:cwh19@mails.tsinghua.edu.cn  
+  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitterb
   icon_pack: fa
   link: https://twitter.com/GeorgeCushen
