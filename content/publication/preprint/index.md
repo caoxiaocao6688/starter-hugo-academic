@@ -34,8 +34,10 @@ url_pdf: https://arxiv.org/abs/2210.02166
 # url_video: '#'
 ---
 
-{{% callout note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /callout %}}
+[comment]: <> ({{% callout note %}})
 
-/%Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+[comment]: <> (Click the *Slides* button above to demo Academic's Markdown slides feature.)
+
+[comment]: <> ({{% /callout %}})
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
