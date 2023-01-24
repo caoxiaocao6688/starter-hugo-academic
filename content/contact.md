@@ -15,8 +15,8 @@ sections:
       phone: +86 188 1175 6887
       # appointment_url: 'https://calendly.com'
       address:
-        street: A639, LSK Building, Haidian District, Beijing, China 
-      #  city: Manchester
+        street: A639, LSK Building
+        city: Haidian District, Beijing, China 
       #  region: Manchester
         postcode: '100084'
       # directions: A639, LSK building
