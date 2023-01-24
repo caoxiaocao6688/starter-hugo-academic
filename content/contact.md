@@ -14,7 +14,8 @@ sections:
       email: cwh19@mails.tsinghua.edu.cn    
       phone: +86 188 1175 6887
       # appointment_url: 'https://calendly.com'
-      address: A639, LSK Building, Tsinghua University, Haidian District, Beijing, China
+      address: 
+         - Street: A639, LSK Building, Tsinghua University, Haidian District, Beijing, China
       # directions: A639, LSK building
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
