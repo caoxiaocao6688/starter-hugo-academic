@@ -15,9 +15,9 @@ sections:
       phone: +86 188 1175 6887
       # appointment_url: 'https://calendly.com'
       address:
-        building: 450 Serra Mall
-        city: Manchester
-        region: Manchester
+        street: A639, LSK Building, Haidian District, Beijing, China 
+      #  city: Manchester
+      #  region: Manchester
         postcode: '100084'
       # directions: A639, LSK building
       # office_hours:
