@@ -27,9 +27,9 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Welcome to my academic homepage. I'm a Phd student at Tsinghua University and my research interests are optimal filtering, optimal control and reinforcement learning.
+        Welcome to my academic homepage. I'm now a Phd student at Tsinghua University and a visiting Phd student at the University of Manchester. My research interests are optimal filtering, optimal control and reinforcement learning.
 
-        **Hobbies:** Chromatic Harmonica, Basketball, Swimming
+        **Hobbies:** Chromatic Harmonica, Basketball and Swimming
     design:
       columns: '1'
   - block: collection
